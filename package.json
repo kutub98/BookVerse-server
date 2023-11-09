@@ -1,0 +1,46 @@
+{
+  "name": "bookverse-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Src/server.ts",
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only Src/server.ts",
+    "lint-check": "eslint --ignore-path .eslintignore --ext .js,.ts .",
+    "lint": "eslint --ext .js,.ts .",
+    "lint-fix": "eslint --fix",
+    "prettier-Check": "yarn prettier --write .",
+    "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kutub Uddin",
+  "license": "ISC",
+  "dependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/cookie-parser": "^1.4.3",
+    "@types/jsonwebtoken": "^9.0.2",
+    "@typescript-eslint/eslint-plugin": "^6.2.1",
+    "@typescript-eslint/parser": "^6.2.1",
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "eslint": "^8.46.0",
+    "eslint-config-prettier": "^8.9.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "express": "^4.18.2",
+    "http-status": "^1.6.2",
+    "husky": "^8.0.3",
+    "jsonwebtoken": "^9.0.1",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.4.1",
+    "prettier": "^3.0.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.1.6",
+    "winston": "^3.10.0",
+    "winston-daily-rotate-file": "^4.7.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.13",
+    "@types/express": "^4.17.17",
+    "eslint-plugin-react": "^7.33.1"
+  }
+}

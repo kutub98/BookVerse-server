@@ -1,0 +1,58 @@
+[
+  {
+    "AuthorName": "Kutub Uddin",
+    "Title": "Romance",
+    "PublicationDate": "22/4/23",
+    "Genre": "Romance",
+    "Review": [],
+    "Price": 56
+  },
+  {
+    "AuthorName": "Leo Tolostoy",
+    "Title": "War and Peace",
+    "PublicationDate": "22/4/23",
+    "Genre": "Romance",
+    "Review": [],
+    "Price": 56
+  },
+  {
+    "AuthorName": "Arif Azad",
+    "Title": "Bela Furabar Agee",
+    "PublicationDate": "22/4/23",
+    "Genre": "Islamic",
+    "Review": [],
+    "Price": 56
+  },
+  {
+    "AuthorName": "Mijanur Rahman Azhari",
+    "Title": "Message",
+    "PublicationDate": "22/4/23",
+    "Genre": "Islamic",
+    "Review": [],
+    "Price": 56
+  },
+  {
+    "AuthorName": "Ali Ahamad Mabrur",
+    "Title": "Rober Valobasa",
+    "PublicationDate": "22/4/23",
+    "Genre": "Islamic",
+    "Review": [],
+    "Price": 56
+  },
+  {
+    "AuthorName": "Abdul Fattah Abu Guddah",
+    "Title": "Lost Islamic History",
+    "PublicationDate": "22/4/23",
+    "Genre": "Islamic",
+    "Review": [],
+    "Price": 56
+  },
+  {
+    "AuthorName": "Helal Hafiz",
+    "Title": "Je Jole Agun Jole",
+    "PublicationDate": "22/4/23",
+    "Genre": "Romance",
+    "Review": [],
+    "Price": 56
+  }
+]
